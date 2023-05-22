@@ -35,7 +35,8 @@
     transform: translate(-50%, -50%) scale(0.1);
     text-align: center;
     padding: 0 30px 30px;
-    color: #333;
+    color: #cd6605;
+    font-weight: bold;
     visibility: hidden;
     transition: transform 0.4s, top 0.4s;
 }
@@ -63,7 +64,7 @@
     width: 100%;
     margin-top: 50px;
     padding: 10px 0;
-    background: #6fd649;
+    background: #cd5002;
     color: #fff;
     border: 0;
     outline: none;
